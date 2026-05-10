@@ -1,0 +1,9 @@
+[submodule "motor-imagery-AI"]
+	path = motor-imagery-AI
+	url = https://github.com/KN-Neuron/motor-imagery-AI
+[submodule "motor-imagery-experiment"]
+	path = motor-imagery-experiment
+	url = https://github.com/KN-Neuron/motor-imagery-experiment
+[submodule "BrainBoard-Keyboard"]
+	path = BrainBoard-Keyboard
+	url = https://github.com/KN-Neuron/BrainBoard-Keyboard
