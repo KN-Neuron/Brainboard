@@ -2,7 +2,14 @@
 
 Welcome to the **BrainBoard** project repository. This project is a comprehensive Brain-Computer Interface (BCI) system developed by **KN Neuron** (Neuroinformatics Student Research Group, Wrocław University of Technology).
 
-BrainBoard leverages EEG signals—specifically motor imagery (MI)—to drive a variety of applications, from experimental setups to a functional BCI keyboard.
+BrainBoard leverages EEG signals—specifically motor imagery (MI)—to drive a variety of applications, from experimental setups to a functional BCI keyboard. 
+
+It was developed by:
+- [Grzegorz Szczepanek](https://github.com/GrzegorzSzczepanek)
+- [Mikołaj Popik](https://github.com/M1KUS3Q)
+- [Tomasz Stefaniak](https://github.com/tomekstefaniak)
+- [Wiktor Dembny](https://github.com/dembol23)
+- [JuLa Szymańska](https://github.com/jszymanska14)
 
 ## 🚀 Project Components
 
