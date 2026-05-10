@@ -15,19 +15,19 @@ It was developed by:
 
 This repository serves as a central hub for the following components, included as submodules:
 
-### 1. [Motor Imagery AI](./motor-imagery-AI)
+### 1. [Motor Imagery AI](https://github.com/KN-Neuron/motor-imagery-AI)
 A modular Python pipeline for classifying motor imagery (left-hand, right-hand, and rest).
 - **Dataset:** [PhysioNet EEG Motor Movement/Imagery Dataset](https://physionet.org/content/eegmmidb/1.0.0/).
 - **Pipeline:** Includes data downloading, preprocessing, training loops, and cross-validation.
 - **Goal:** To provide robust models for MI classification.
 
-### 2. [Motor Imagery Experiment](./motor-imagery-experiment)
+### 2. [Motor Imagery Experiment](https://github.com/KN-Neuron/motor-imagery-experiment)
 A Pygame-based experimental environment that integrates GUI, EEG headset, and data management.
 - **GUI:** Immersive interface for users during BCI experiments.
 - **Integration:** Seamlessly connects with EEG headsets for real-time data acquisition.
 - **Hex-O-Spell:** Includes components for the Hex-O-Spell speller paradigm.
 
-### 3. [BrainBoard Keyboard](./BrainBoard-Keyboard)
+### 3. [BrainBoard Keyboard](https://github.com/KN-Neuron/BrainBoard-Keyboard)
 A functional motor-imagery BCI keyboard.
 - **Input Signals:** Left-hand MI, right-hand MI, and deliberate eye blinks.
 - **Architecture:** Features a BCI pipeline (EEGNet for MI, blink detection, smoothing/debounce) driving a sector/letter speller state machine.
